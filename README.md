@@ -1,6 +1,6 @@
-# SaaS Base Web
+# Climb Propostas Web
 
-> Template de frontend para criacao de SaaS e MicroSaaS com React + Vite + Tailwind.
+> Frontend do Climb Propostas — Gerador de propostas comerciais com IA. React + Vite + Tailwind.
 
 ## Tecnologias
 

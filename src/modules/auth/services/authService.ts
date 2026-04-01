@@ -10,12 +10,12 @@ import api from '@/services/httpClient'
 
 // Mock de usuário válido
 const MOCK_USER = {
-  email: 'admin@saasbase.com',
+  email: 'admin@climbpropostas.com',
   password: 'Admin@123',
   user: {
     id: '1',
     name: 'Administrador',
-    email: 'admin@saasbase.com',
+    email: 'admin@climbpropostas.com',
     role: 'admin'
   }
 }
